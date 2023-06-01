@@ -98,11 +98,7 @@ module.exports = function(deployer) {
    instance.assert_impl()
    ```
 ## Authors
-
-Metacrafter Jaideep Kaur
+Jaideep Kaur
 [jaideep.e12885@cumail.in]
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
 
